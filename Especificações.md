@@ -12,7 +12,7 @@ A seguir, apresentamos três personas que representam os diferentes perfis do p�
 | **Descrição** | **Dores** | **Expectativas** |
 | Dona Lourdes decidiu voltar a estudar para se manter ativa. Ela utiliza o computador e o celular para tarefas básicas do dia a dia, mas tem receio de errar ou "quebrar" sistemas complexos. | Dificuldade para ler textos pequenos com baixo contraste de cores, menús suspensos que somem rapidamente ao mover o mouse e fluxos de formulários confusos que não mostram onde ela errou. | Encontrar uma interface limpa, com textos de fácil leitura, contraste adequado, botões grandes e instruções passo a passo para realizar sua inscrição sem medo. |
 
-## Persona 3: João Pedro (Estudante com Baixo Acesso Tecnológico)
+## Persona 2: João Pedro (Estudante com Baixo Acesso Tecnológico)
 
 | Foto | Nome | Dados Pessoais |
 | :---: | :---: | :--- |
